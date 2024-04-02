@@ -1,9 +1,7 @@
 # Linux-CLI
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This project was a set of labs 17 on the cyber security training platform Immersive Labs. Learn how to use the Linux Command Line Interface (CLI) and how it can be used to perform different tasks. The labs in this skills series range from navigating around a file structure to combining multiple commands to achieve a specific goal.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
